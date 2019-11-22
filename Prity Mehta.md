@@ -13,8 +13,8 @@ knowledge of software development life cycle.
 
 Computer Skills
 
-Database			: Microsoft SQL server 20012/2008, MySql, MS Access, 
-BI Tools			: SSIS/SSAS/SSRS, Kapow RoboSuite 6.0 sr1
+Database		: Microsoft SQL server 20012/2008, MySql, MS Access, 
+BI Tools		: SSIS/SSAS/SSRS, Kapow RoboSuite 6.0 sr1
 Programming Languages	: Python, C, C++,  T-SQL, JDBC, familiar with VBA
 Internet Programming	: HTML, XHTML, JavaScript, PHP, CSS, Ajax, XML
 Application Packages 	: MS-Office 2013, Front page, Source safe, 
